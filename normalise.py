@@ -24,7 +24,7 @@ normed_files = []
 
 def standardNormalisation():
 
-    file_list = listdir("/Users/stewartrobertson/Documents/Redfield and Wilton/10. Projects/2. Multi-reg Cover Sheet/2. Region files")
+    file_list = listdir("/path/to/my/directory")
     file_list = [fle for fle in file_list if fle != '.DS_Store']
     pprint.pprint(file_list)
     
@@ -37,7 +37,7 @@ def standardNormalisation():
             dt = str(input('Enter the date (DD/MM/YYYY): '))
             date = datetime.strptime(dt, '%d/%m/%Y').date()
             reg = fle.split(" ")[0]
-        xls = pd.ExcelFile("/Users/stewartrobertson/Documents/Redfield and Wilton/10. Projects/2. Multi-reg Cover Sheet/2. Region files/" + str(fle))
+        xls = pd.ExcelFile("/path/to/my/directory" + str(fle))
         sheets = xls.sheet_names
 
         Doc = []
