@@ -1,5 +1,5 @@
 # Multi-region-Polling-Cover-Sheet
-Python script to generate a clean word document with tables of results for multiple polls, including formatting logic.
+Python script to generate a clean Word document with tables of results for multiple polls, including formatting logic.
 
 Created to service the requirement to create neatly presented results from US Swing State polling and avoid countless hours of manual work.
 
