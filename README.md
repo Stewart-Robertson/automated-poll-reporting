@@ -7,7 +7,7 @@ Example of a single table created from the code, where 10 polls were simultaneou
 
 ![image](https://github.com/user-attachments/assets/ca35133f-847c-4c5f-b733-8f0e244730b8)
 
-The formatting logic was extended to tables for questions where "Neither" is present in one of the answer codes. Users are prompted with a list of answers, e.g.
+The formatting logic was extended to tables for questions where "Neither" is present in one of the answer codes. Users are prompted with a list of answers, e.g.:
 
 "['Strongly agree', 'Agree', 'Neither agree nor disagree', 'Disagree', 'Strongly disagree', "Don't know"]"
 
