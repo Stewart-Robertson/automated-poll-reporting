@@ -30,3 +30,10 @@ The answers from all sheets and all files were combined into a report with table
 Note the addition of the "Net Result" and "Change from previous poll" rows at the bottom of the table, and the bolding applied to the answers.
 
 N.B.: All the code written in the "normalise.py" file was not written by me.
+
+## Further Use Cases: Speeding Up Insights
+
+This script was incredibly useful and allowed me to create polling reports where different crosstabs (columns in the above Excel image) were presented as different columns in the tables, massively improving speed of insights as researchers could see results for different demographics tabulated side-by-side. See below for an example:
+
+<img width="576" alt="Screenshot 2025-06-02 at 13 00 38" src="https://github.com/user-attachments/assets/8660797a-af4e-426e-b6da-1f77147682fa" />
+
