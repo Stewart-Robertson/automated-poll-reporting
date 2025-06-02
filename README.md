@@ -1,17 +1,20 @@
 # Multi-region-Polling-Cover-Sheet
 
 ## Background: The 2024 US Election
+
 In the run-up to the 2024 US election, Redfield & Wilton Strategies conducted weekly polling in numerous Swing States. [The Telegraph](https://www.telegraph.co.uk) (a leading UK News outlet) required the results from this research to be sent as quickly as possible to allow them to capitalise on the coverage it would generate, especially as changing events make old results obsolete quickly.
 
 So, I created [this script](https://github.com/Stewart-Robertson/Multi-region-Polling-Cover-Sheet/blob/main/Multi-region%20cover%20sheet.py) to quickly process an arbitrary number of polls (the Swing States polled changed), and present the results elegantly in Word document reports.
 
 **Some features of the tabulated results:**
+
 * Answers were bolded according to logic
 * For questions of a certain format, net result rows were added to the bottom of the tables (see bottom image)
 * For questions were a net result row was added, a further row was added with comparison to the previous result for that question in that State.
 
 ## The Data Source
-Several (up to 10) Excel results files at a time were to be processd in the following format:
+
+Several (up to 10) Excel results files at a time were to be processed in the following format:
 
 <img width="1482" alt="Screenshot 2025-06-02 at 12 44 11" src="https://github.com/user-attachments/assets/797d2ede-8481-47a5-8af5-6d764278b5d2" />
 
