@@ -2,7 +2,7 @@
 
 ## Background: The 2024 US Election
 
-In the run-up to the 2024 US election, Redfield & Wilton Strategies conducted weekly polling in numerous Swing States. [The Telegraph](https://www.telegraph.co.uk) (a leading UK News outlet) required the results from this research to be sent as quickly as possible to allow them to capitalise on the coverage it would generate, especially as changing events make old results obsolete quickly.
+In the run-up to the 2024 US election, Redfield & Wilton Strategies conducted weekly polling in numerous Swing States. [The Telegraph](https://www.telegraph.co.uk) (a leading news outlet in the UK) required the results from this research to be sent as quickly as possible to allow them to capitalise on the coverage it would generate, especially as changing events make old results obsolete quickly.
 
 So, I created [this script](https://github.com/Stewart-Robertson/Multi-region-Polling-Cover-Sheet/blob/main/Multi-region%20cover%20sheet.py) to quickly process an arbitrary number of polls (the Swing States polled changed), and present the results elegantly in Word document reports.
 
