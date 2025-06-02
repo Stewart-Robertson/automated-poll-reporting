@@ -15,6 +15,7 @@ Several (up to 10) Excel results files at a time were to be processd in the foll
 
 <img width="1482" alt="Screenshot 2025-06-02 at 12 44 11" src="https://github.com/user-attachments/assets/797d2ede-8481-47a5-8af5-6d764278b5d2" />
 
+
 This data was normalised into columnar format using an excellent python script written by a former colleague, and then these tables were used in the script linked above.
 
 ## The Result
